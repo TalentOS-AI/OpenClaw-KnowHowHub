@@ -4,12 +4,12 @@
 
 ## 当前周报（Current Digest）
 
-- [Weekly Digest (2026-03-19)](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/research/weekly-digest-2026-03-19.md)
+- [Weekly Digest (2026-03-19)](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/research/weekly-digest-2026-03-19.md)
 
 ## 相关追踪页面（Related Tracking Pages）
 
-- [Repository Signals](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/research/repo-signals.md)
-- [Channel And Deployment Signals](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/research/channel-deployment-signals.md)
+- [Repository Signals](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/research/repo-signals.md)
+- [Channel And Deployment Signals](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/research/channel-deployment-signals.md)
 
 ## 更新节奏（Update Cadence）
 

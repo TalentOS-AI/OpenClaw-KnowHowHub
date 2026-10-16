@@ -2,7 +2,7 @@
 
 ## 面向人类（For Humans）
 
-- [Top 10 For Humans](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/reference/top-10-for-humans.md)
+- [Top 10 For Humans](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/reference/top-10-for-humans.md)
 
 适用场景：
 
@@ -12,7 +12,7 @@
 
 ## 面向智能体（For Agents）
 
-- [Top 10 For Agents](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/reference/top-10-for-agents.md)
+- [Top 10 For Agents](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/reference/top-10-for-agents.md)
 
 适用场景：
 
@@ -22,6 +22,6 @@
 
 ## 来源策略（Source Strategy）
 
-- [Source Landscape](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/reference/source-landscape.md)
-- [Source Intelligence](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/research/source-intelligence.md)
-- [Cross-Ecosystem References](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/reference/cross-ecosystem-references.md)
+- [Source Landscape](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/reference/source-landscape.md)
+- [Source Intelligence](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/research/source-intelligence.md)
+- [Cross-Ecosystem References](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/reference/cross-ecosystem-references.md)

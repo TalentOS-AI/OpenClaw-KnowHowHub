@@ -35,9 +35,9 @@ features:
 
 ## 核心入口（Core Entry Points）
 
-- [Red Book](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/tree/main/red-book)
-- [Cookbook](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/tree/main/cookbook)
-- [Top 10 For Humans](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/reference/top-10-for-humans.md)
-- [Top 10 For Agents](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/reference/top-10-for-agents.md)
-- [Source Landscape](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/reference/source-landscape.md)
-- [Cross-Ecosystem References](https://github.com/JimmyWangJimmy/OpenClaw-KnowHowHub/blob/main/reference/cross-ecosystem-references.md)
+- [Red Book](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/tree/main/red-book)
+- [Cookbook](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/tree/main/cookbook)
+- [Top 10 For Humans](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/reference/top-10-for-humans.md)
+- [Top 10 For Agents](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/reference/top-10-for-agents.md)
+- [Source Landscape](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/reference/source-landscape.md)
+- [Cross-Ecosystem References](https://github.com/TalentOS-AI/OpenClaw-KnowHowHub/blob/main/reference/cross-ecosystem-references.md)

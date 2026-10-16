@@ -7,7 +7,7 @@ OpenClaw 的红宝书（Red Book）与配方手册（Cookbook）。
 [![Top 10 Humans](https://img.shields.io/badge/top_10-humans-1F8B4C?style=flat-square)](reference/top-10-for-humans.md)
 [![Top 10 Agents](https://img.shields.io/badge/top_10-agents-7C3AED?style=flat-square)](reference/top-10-for-agents.md)
 
-Website: <https://jimmywangjimmy.github.io/OpenClaw-KnowHowHub/>
+Website: <https://talentos-ai.github.io/OpenClaw-KnowHowHub/>
 
 ![OpenClaw overview](assets/overview-diagram.svg)
 
@@ -150,3 +150,8 @@ flowchart TD
 - 补充高质量配方（recipes）、流程（playbooks）、技能（skills）和案例
 
 开始前请看 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+
+---
+
+Maintained by [TalentOS](https://www.agentbay.asia) · 需要定制 Agent / 技能开发？[找我们定制 / Work with us](https://www.agentbay.asia/contact) · talentos@agentbay.asia
